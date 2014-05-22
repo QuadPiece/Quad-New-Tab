@@ -4,6 +4,8 @@ So one day I decided to make a new tab page to use in my Firefox browser.
 
 Here's the files because why not right?
 
+[Preview screenshot](http://a.pomf.se/nymuyl.png)
+
 # Features:
 * Kawaii anime grill images
 * (Kind of) Responsive design
