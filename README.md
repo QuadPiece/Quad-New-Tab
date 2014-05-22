@@ -18,3 +18,4 @@ Here's the files because why not right?
 * Find 'browser.newtab.url'
 * Set the value to the local path to the index.html file
 * Open a new tab and be happy!
+![help screenshot](http://a.pomf.se/zgiakz.png)
