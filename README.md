@@ -18,6 +18,6 @@ Here's the files because why not right?
 # Installation (in Firefox):
 * Write 'about:config' in your adress bar to reach your advanced settings.
 * Find 'browser.newtab.url'
-* Set the value to the local path to the index.html file
+* Set the value to the local path of the index.html file
 * Open a new tab and be happy!
 ![help screenshot](http://a.pomf.se/zgiakz.png)
