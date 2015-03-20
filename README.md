@@ -13,7 +13,7 @@ Here's the files because why not right?
 * ~~Easy~~ Possible to edit with your own links
 * Now with far less spaghetti code! (Thanks Avail)
 * Googel search
-* Customizable two color design
+* Customizable two color (material inspired) design
 
 # Installation (in Firefox):
 * Write 'about:config' in your adress bar to reach your advanced settings.
