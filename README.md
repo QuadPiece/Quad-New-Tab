@@ -21,3 +21,10 @@ Here's the files because why not right?
 * Set the value to the local path of the index.html file
 * Open a new tab and be happy!
 ![help screenshot](http://a.pomf.se/zgiakz.png)
+
+# Installation (in Chrome):
+* Install the [Replace New Tab Page](https://chrome.google.com/webstore/detail/replace-new-tab-page/cnkhddihkmmiiclaipbaaelfojkmlkja?utm_source=chrome-app-launcher-info-dialog) Chrome extension
+* Click the extension icon and then select 'Options'
+* Set the value to the local path of the index.html file
+* Open a new tab and be happy!
+![help screenshot 2](http://i.imgur.com/xijRWf4.png)
